@@ -1,11 +1,11 @@
-</p>
 <a href="https://github.com/fuwn/lime">
 <h1 align="center">🧶 lime</h1>
 </a>
 <p align="center">
 no bs url shortening
-</p>
+
 <img src="./assets/screenshot_index.png" alt="screenshot of index page">
+</p>
 
 <p align="center">
 <a href="https://discord.com/invite/yWKgRT6">
@@ -17,7 +17,7 @@ no bs url shortening
 <a href="https://saythanks.io/to/fuwnzy@gmail.com">
 <img src="https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg" alt="say thanks" />
 </a>
-<a href="./LICENSE">
+<a href="./license">
 <img src="https://img.shields.io/github/license/fuwn/lime" alt="license" />
 </a>
 </p>
