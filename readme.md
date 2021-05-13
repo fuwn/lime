@@ -3,7 +3,8 @@
 </a>
 <p align="center">
 no bs url shortening
-
+</p>
+<p align="center">
 <img src="./assets/screenshot_index.png" alt="screenshot of index page">
 </p>
 
