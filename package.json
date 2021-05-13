@@ -1,0 +1,18 @@
+{
+  "name": "lime",
+  "version": "0.1.0",
+  "description": "🧶 no bs url shortening",
+  "private": true,
+  "scripts": {
+    "prepare": "husky install",
+    "commit": "cz",
+    "commit:signed": "cz -S"
+  },
+  "devDependencies": {
+    "@commitlint/cli": "12.1.1",
+    "@commitlint/config-conventional": "12.1.1",
+    "commitizen": "4.2.4",
+    "cz-conventional-changelog": "3.3.0",
+    "husky": "6.0.0"
+  }
+}
