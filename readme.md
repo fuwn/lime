@@ -5,6 +5,7 @@
 <p align="center">
 no bs url shortening
 </p>
+<img src="./assets/screenshot_index.png" alt="screenshot of index page">
 
 <p align="center">
 <a href="https://discord.com/invite/yWKgRT6">
