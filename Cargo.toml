@@ -20,7 +20,7 @@ dotenv = "0.15.0"
 #pretty_env_logger = "0.4.0"
 
 # Serialization
-serde = "1.0.126"
+serde = "1.0.127"
 serde_derive = "1.0.126"
 
 # Database
