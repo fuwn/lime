@@ -29,7 +29,7 @@ diesel = { version = "1.4.7", features = ["sqlite"] }
 
 # Web-server
 actix-web = { version = "3.3.2", features = ["rustls"] }
-actix-cors = "0.5.4"
+actix-cors = "0.6.1"
 qstring = "0.7.2"
 
 # Error
