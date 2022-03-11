@@ -36,8 +36,8 @@ qstring = "0.7.2"
 simple-error = "0.2.3"
 
 # Templating
-askama = "0.10.5"
+askama = "0.11.1"
 
 [build-dependencies]
 # Templating
-askama ="0.10.5"
+askama ="0.11.1"
