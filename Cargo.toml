@@ -21,7 +21,7 @@ dotenv = "0.15.0"
 
 # Serialization
 serde = "1.0.127"
-serde_derive = "1.0.127"
+serde_derive = "1.0.136"
 
 # Database
 libsqlite3-sys = { version = "0.9.1", features = ["bundled"] }
