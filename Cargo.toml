@@ -24,7 +24,7 @@ serde = "1.0.127"
 serde_derive = "1.0.127"
 
 # Database
-libsqlite3-sys = { version = "0.9.1", features = ["bundled"] }
+libsqlite3-sys = { version = "0.24.2", features = ["bundled"] }
 diesel = { version = "1.4.7", features = ["sqlite"] }
 
 # Web-server
